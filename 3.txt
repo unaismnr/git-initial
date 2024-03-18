@@ -1,2 +1,2 @@
 third file modified
-third file modified from github
+third file modified from master
