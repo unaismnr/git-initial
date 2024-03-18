@@ -1,5 +1,6 @@
 hai friends!
 
+<<<<<<< HEAD
 
 no
 
@@ -9,3 +10,8 @@ hello
 
 first file modified
 
+=======
+hai
+
+fisrt file modified from feature
+>>>>>>> feature
